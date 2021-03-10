@@ -1,3 +1,3 @@
 # ValtariMatrix
 
-GamerCentral VGInfo Hub
+GameCoderCentral
