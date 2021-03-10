@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a site for finding info on how to code games in all types and aspects.
 
 # social links
-twitter_username: None yet # DO NOT include the @ character, or else the build will fail!
+twitter_username: Currently unavailable # DO NOT include the @ character, or else the build will fail!
 github_username:  ValtariMatrix # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
